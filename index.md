@@ -2,7 +2,7 @@
 
 C hello github pages
 
-```
+```c
 #include <stdio.h>
    
 int main(void) {
