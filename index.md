@@ -2,7 +2,7 @@
 ------
 ## 目录
 - [C](#C)
-- [C++](/cpp/index.md)
+- [C++](/cpp/index.md#1)
 
 ## C
 C hello github pages
