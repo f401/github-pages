@@ -1,5 +1,10 @@
 # github pages 测试
+------
+## 目录
+- [C](#C)
+- [C++](/cpp/index.md)
 
+## C
 C hello github pages
 
 ```c
